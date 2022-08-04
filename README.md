@@ -53,13 +53,13 @@ Private Key Leakage]
 [[LI.FI](https://li.fi/) | *Ethereum* | Unchecked External Call]
 
 - [[Mar 17, 2022] The short analysis of the flashloan attack to the APE AirDrop](https://medium.com/@blocksecteam/the-short-analysis-of-the-flashloan-attack-to-the-ape-airdrop-490a7d6a1479)    
-[[BAYC](https://boredapeyachtclub.com/#/) | *Ethereum* ]
+[[BAYC](https://boredapeyachtclub.com/#/) | *Ethereum*]
 
 - [[Feb 3, 2022] When “SafeMint” Becomes Unsafe: Lessons from the HypeBears Security Incident](https://medium.com/@blocksecteam/when-safemint-becomes-unsafe-lessons-from-the-hypebears-security-incident-2965209bda2a)    
 [[HyperBears NFT](https://hypebears.io/) | *Ethereum* | Untrusted External Call, Reentrancy]
 
 - [[Jan 28, 2022] When “SafeTransfer” Becomes Unsafe: lessons from the QBridge security incident](https://medium.com/@blocksecteam/when-safetransfer-becomes-unsafe-lesson-from-the-qbridge-security-incident-c32ecd3ce9da)     
-[[Qubit Finance](https://qbt.fi/app) | *Ethereum* ]
+[[Qubit Finance](https://qbt.fi/app) | *Ethereum*]
 
 - [[Jan 16, 2022] How a vulnerability is silently fixed by Coin98](https://medium.com/@blocksecteam/how-a-vulnerability-is-silently-fixed-by-coin98-f910e70398e3)      
 [[Coin98](https://coin98.com/) | *BSC* | Unchecked Input Parameters]
@@ -69,7 +69,7 @@ Private Key Leakage]
 [[Solana Network](https://solana.com/) | *Solana* | Interger Overflow]
 
 - [[Nov 18, 2021] The analysis of Nerve Bridge Security Incident](https://medium.com/@blocksecteam/the-analysis-of-nerve-bridge-security-incident-ead361a21025)   
-[[Nerve Network](https://nerve.network/) | *BSC* ]
+[[Nerve Network](https://nerve.network/) | *BSC*]
 
 - [[Nov 6, 2021] The Initial Analysis of the bZx Security Incident](https://medium.com/@blocksecteam/the-initial-analysis-of-the-bzx-security-incident-7daf2c6b58f3)  
 [[bZx Protocol](https://bzx.network/) | *Ethereum* | Possible Private Key leakage]
@@ -79,7 +79,7 @@ Private Key Leakage]
 Price Manipulation]
 
 - [[Oct 10, 2021] [The Butterfly Effect] The Compound Security Incident Caused by a Bugfix](https://medium.com/@blocksecteam/the-butterfly-effect-the-compound-security-incident-caused-by-a-bugfix-8f2052e9a759)   
-[[Compound Finance](https://compound.finance/) | *Ethereum* ]
+[[Compound Finance](https://compound.finance/) | *Ethereum*]
 
 
 - [[Sep 22, 2021] The Real Root Cause of the Vee Finance Security Incident](https://medium.com/@blocksecteam/the-real-root-cause-of-the-vee-finance-security-incident-8ed6562814e5)   
@@ -90,7 +90,7 @@ Price Manipulation]
 CVE-2021–39137]
 
 - [[Aug 15, 2021] The Retrospection of the Poly Network Hack from a Security Researcher perspective](https://medium.com/@blocksecteam/the-retrospection-of-the-poly-network-hack-from-a-security-researcher-perspective-7b9f5c6f06d1)  
-[[Poly Network](https://poly.network/#/) ]
+[[Poly Network](https://poly.network/#/)]
 
 - [[Aug 12, 2021] The Further Analysis of the Poly Network Attack](https://medium.com/@blocksecteam/the-further-analysis-of-the-poly-network-attack-6c459199c057)   
 [[Poly Network](https://poly.network/#/)]
@@ -122,7 +122,7 @@ Price Manipulation]
 Reentrancy]
 
 - [[Jan 3, 2021]Deposit Less, Get More: yCREDIT Attack Details](https://medium.com/@blocksecteam/deposit-less-get-more-ycredit-attack-details-f589f71674c3)
-[[YCredit](https://ycredit.tools/) | *Ethereum* ]
+[[YCredit](https://ycredit.tools/) | *Ethereum*]
 
 - [[Dec 18, 2020]Flash Loan Attack on Plouto Vault](https://medium.com/@blocksecteam/flash-loan-attack-on-plouto-vault-197da1531758)  
 [Plouto| *Ethereum*]
@@ -209,7 +209,7 @@ Reentrancy]
 [Honeypot]
 
 - [[May 24, 2022] Hackerdao Attack](https://twitter.com/BlockSecTeam/status/1529084919976034304)    
-[[Hackerdao](https://www.hackerdao.xyz/) | *BSC* ]
+[[Hackerdao](https://www.hackerdao.xyz/) | *BSC*]
 
 - [[May 21, 2022] bDollarFi Attack](https://twitter.com/BlockSecTeam/status/1527882159528083456)   
 [[bDollar Finance](https://twitter.com/bdollar_fi) | *BSC* | Price Manipulation]
@@ -221,7 +221,7 @@ Reentrancy]
 [[BnBBrokers](https://bnbbrokers.app/) | *BSC* | Reentrancy]
 
 - [[Apr 23, 2022] AkuDreams Exploit](https://twitter.com/BlockSecTeam/status/1517740643325714432)    
-[[Akutars](https://www.aku.world/) | *Ethereum* ]
+[[Akutars](https://www.aku.world/) | *Ethereum*]
 
 - [[Apr 21, 2022] Zeed Protocol Exploit](https://twitter.com/BlockSecTeam/status/1517052623354232832)    
 [[Zeed Protocol](https://twitter.com/zeedcommunity) | *BSC* |
@@ -270,13 +270,13 @@ Reward Distribution Vulnerability]
 [[Crosswise Finance](https://crosswise.finance/) | *Ethereum* | Access Control]
 
 - [[Dec 30, 2021] SashimiSwap Attack](https://twitter.com/BlockSecTeam/status/1476516736422019082)   
-[[SashimiSwap](https://sashimiswap.org/) | *Ethereum* ]
+[[SashimiSwap](https://sashimiswap.org/) | *Ethereum*]
 
 - [[Nov 30, 2021] MonoXFinance Attack](https://twitter.com/BlockSecTeam/status/1465690478414761992)    
 [[MonoX Finance](https://monox.finance/home) | *Ethereum*]
 
 - [[Nov 21, 2021] FormationFi Attack](https://twitter.com/BlockSecTeam/status/1462216654570463238)    
-[[Formation Finance](https://twitter.com/VisorFinance) | *Ethereum* ]
+[[Formation Finance](https://twitter.com/VisorFinance) | *Ethereum*]
 
 - [[Oct 28, 2021] CreamFinance Attack](https://twitter.com/BlockSecTeam/status/1453393444047441923)    
 [[Cream Finance](https://cream.finance/) | *BSC* | Oracle Vulnerability]
@@ -285,7 +285,7 @@ Reward Distribution Vulnerability]
 [[NowSwap Protocol](http://nowswap.org/) | *Ethereum* | Semantic Inconsistenty]
 
 - [[Sep 14, 2021] KlondikeFinance Attack](https://twitter.com/BlockSecTeam/status/1437704673385857026)   
-[[Klondike Finance](http://klondike.finance/) | *Ethereum* ]
+[[Klondike Finance](http://klondike.finance/) | *Ethereum*]
 
 - [[Sep 3, 2021] Siren Protocol Attack](https://twitter.com/BlockSecTeam/status/1433682132090568705)    
 [[Siren Protocol](https://siren.xyz/) | *Ethereum* | Reentrancy]
