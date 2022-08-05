@@ -1,8 +1,11 @@
 # BlockSec Academy
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/BlockSecTeam.svg?style=social&label=Follow%20%40BlockSecTeam)](https://twitter.com/BlockSecTeam)
+
 ## Attack Analysis
 
 - [[Aug 5, 2022] How Unchecked Mapping Makes $200M Losses of Nomad Bridge](https://blocksecteam.medium.com/attack-analysis-how-unchecked-mapping-makes-200m-losses-of-nomad-bridge-441336e28924)   
-[[Nomad Bridge](https://app.nomad.xyz//) | *Ethereum* ]
+[[Nomad Bridge](https://app.nomad.xyz//) | *Ethereum*]
 
 - [[Jun 16, 2022] Our Take on the Inverse Finance Security Incident: Price Manipulation Attack](https://medium.com/@blocksecteam/price-oracle-manipulation-attack-on-inverse-finance-a5544218ea91)   
 [[Inverse Finance](http://www.inverse.finance/) | 
