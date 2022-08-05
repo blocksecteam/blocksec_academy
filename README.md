@@ -1,15 +1,16 @@
 # BlockSec Academy
 ## Attack Analysis
+
+- [[Aug 5, 2022] How Unchecked Mapping Makes $200M Losses of Nomad Bridge](https://blocksecteam.medium.com/attack-analysis-how-unchecked-mapping-makes-200m-losses-of-nomad-bridge-441336e28924)   
+[[Nomad Bridge](https://app.nomad.xyz//) | *Ethereum* ]
+
 - [[Jun 16, 2022] Our Take on the Inverse Finance Security Incident: Price Manipulation Attack](https://medium.com/@blocksecteam/price-oracle-manipulation-attack-on-inverse-finance-a5544218ea91)   
 [[Inverse Finance](http://www.inverse.finance/) | 
 *Ethereum* | Oracle vulnerability]
 
-
-
 - [[Jun 7, 2022] How a Critical Bug in Solana Network was Detected and Timely Patched](https://medium.com/@blocksecteam/how-a-critical-bug-in-solana-network-was-detected-and-timely-patched-a701870e1324)    
 [[Solana Network](https://solana.com/) | 
 *Solana* | CWE-682]
-
 
 - [[May 31, 2022] How the Mirror Protocol got Exploited](https://medium.com/@blocksecteam/how-the-mirror-protocol-is-exploited-33b5c1d48322)          
 [[Mirror Protocol](https://www.mirror.finance/) | *Ethereum* | Double Claiming Attack]
