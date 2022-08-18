@@ -113,7 +113,6 @@ Price Manipulation]
 [[Sanshuinu](https://sanshuinu.finance/) | *Ethereum* | 
 Deflation Token]
 
-
 - [[Jul 19, 2021]The Analysis of the Array Finance Security Incident](https://medium.com/@blocksecteam/the-analysis-of-the-array-finance-security-incident-bcab555326c1)
 [Array Finance | *Ethereum* | Price Manipulation]
 
@@ -176,6 +175,12 @@ Reentrancy]
 
 - [[Apr 24, 2022]Rust 智能合约养成日记（10-3）Sputnik DAO::提案介绍](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484836&idx=1&sn=fa60fd3617336f187f344ffe8e10e670&chksm=c0a8510df7dfd81b67914044dbdf9dd6fb6a9f1d07cdc5f0d64c76cfa2de2c997fab87038ea9&token=1019309428&lang=zh_CN#rd)
 
+### NFT
+- [[Aug 5, 2022]Secure Smart Contract Development — Code Reentrancy in NFT Contracts](https://medium.com/@blocksecteam/secure-smart-contract-development-code-reentrancy-in-nft-contracts-fa6799a3966c)
+
+- [[Aug 12, 2022]Secure Smart Contract Development (2) — How to Use Digital Signature and Use It Right in NFT (Markets)](https://medium.com/@blocksecteam/secure-smart-contract-development-2-how-to-use-digital-signature-and-use-it-right-in-nft-cc7ed246c009)
+
+
 ## Misc
 ### AML
 - [[Sept 13, 2021]暴露出来的只是冰山一角：深度挖掘Colonial Pipeline事件背后隐藏的故事](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484265&idx=1&sn=03c4f5f3e25678abf2fe64d2575733fb&chksm=c0a857c0f7dfded6460dd0d8fd6e242ffe5a3b414ade80db04f8958d1a658ee9a401deb5be54&token=1019309428&lang=zh_CN#rd)
@@ -189,6 +194,28 @@ Reentrancy]
 
 
 # Twitter
+- [[Aug 17, 2022] Where is the $190M? --An Initial Analysis of the Nomad Bridge Attack Lost Funds](https://twitter.com/BlockSecTeam/status/1559785673770487809)
+[[Nomad Bridge](https://www.nomad.xyz/) | *Ethereum* | Logic Vulnerability]
+
+- [[Aug 16, 2022] Do not directly sell NFT airdrop after ETH merge](https://twitter.com/BlockSecTeam/status/1559485426104418304)
+
+- [[Aug 12, 2022] Secure Smart Contract Development (2) — How to Use Digital Signature and Use It Right in NFT (Markets) ](https://twitter.com/BlockSecTeam/status/1557981700218847232)
+
+- [[Aug 10, 2022] ANCH Attack](https://twitter.com/BlockSecTeam/status/1557207585375531009)
+[ANCHStake Protocol | *BSC* | Logic Vulnerability]
+
+- [[Aug 10, 2022] XSTABLE.PROTOCOL Attack](https://twitter.com/BlockSecTeam/status/1557195012042936320)
+[XSTABLE.PROTOCOL | *BSC* | Logic Vulnerability]
+
+- [[Aug 8, 2022] EGD_Finance Attack](https://twitter.com/BlockSecTeam/status/1556496717843148801)
+[EGD_Finance | *BSC* | Price Manipulation]
+
+- [[Aug 4, 2022] Freedom Protocol Rug&Pull](https://twitter.com/BlockSecTeam/status/1555116309955850241)
+[[Freedom Protocol](https://www.freedomprot.com/) | *BSC* | Rug]
+
+- [[Aug 2, 2022] Nomad Bridge Exploit](https://twitter.com/BlockSecTeam/status/1554390772585500674)
+[[Nomad Bridge](https://www.nomad.xyz/) | *Ethereum* | Logic Vulnerability]
+
 - [[Jul 14, 2022] SpaceGodzilla Attack](https://twitter.com/BlockSecTeam/status/1547456591900749824)    
 [[SpaceGodzilla NFT](https://twitter.com/SpaceGodzilla_c) | 
 *Ethereum* | Price Manipulation]
