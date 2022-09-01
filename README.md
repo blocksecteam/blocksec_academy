@@ -194,6 +194,12 @@ Reentrancy]
 
 
 # Twitter
+- [[Aug 31, 2022] No-Open Source Contract Attack](https://twitter.com/BlockSecTeam/status/1564890919023034369)  
+[0x40c994299fb4449ddf471d0634738ea79c734919 | BSC | Logic Vulnerability]
+
+- [[Aug 24, 2022] KaoyaSwap Attack Analysis](https://twitter.com/BlockSecTeam/status/1562286943957708800)   
+[KaoyaSwap | *BSC* | Logic Vulnerability]
+
 - [[Aug 17, 2022] Where is the $190M? --An Initial Analysis of the Nomad Bridge Attack Lost Funds](https://twitter.com/BlockSecTeam/status/1559785673770487809)
 [[Nomad Bridge](https://www.nomad.xyz/) | *Ethereum* | Logic Vulnerability]
 
