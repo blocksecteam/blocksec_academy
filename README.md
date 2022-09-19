@@ -188,14 +188,44 @@ Reentrancy]
 - [[Oct 02, 2021][BlockSec AML研究分析之二] Colonial Pipeline事件分析展示界面](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484406&idx=1&sn=3b2e9bf6985b9fb5032d529904bb0335&chksm=c0a8575ff7dfde492c39ba9575a686fa615f0e1b6ba5006d0d94082dbc12712646402305565d&token=1019309428&lang=zh_CN#rd)
 
 ### Others
+- [[Sep 18, 2022] Reveal the “Message’’ Replay Attacks on EthereumPoW]( https://medium.com/@blocksecteam/reveal-the-message-replay-attacks-on-ethereumpow-64e4feee991c)
+
+- [[Sep 8, 2022] A new memory overwrite vulnerability discovered in Wyvern Protocol](https://medium.com/@blocksecteam/a-new-memory-overwrite-vulnerability-discovered-in-wyvern-protocol-5285996c297d)
+
+- [[Aug 24, 2022] BlockSec and GoPlus Reached Strategy Partnership to Explore the Field of “Web 3.0 Security”](https://medium.com/@blocksecteam/blocksec-and-goplus-reached-strategy-partnership-to-explore-the-field-of-web-3-0-security-ffa63fb9590)
+
 - [[Mar 7, 2022]How to Make the BlockChain Attack “Blockable”](https://medium.com/@blocksecteam/how-to-make-the-blockchain-attack-blockable-1c741aea64c3)
 
 - [[Aug 17, 2021]Tradeoff Between Convenience and Security: Unlimited Approval in ERC20](https://medium.com/@blocksecteam/unlimited-approval-in-erc20-convenience-or-security-1c8dce421ed7)
 
 
 # Twitter
+- [[Sep 18, 2022] Reveal the “Message’’ Replay Attacks on EthereumPoW](https://twitter.com/BlockSecTeam/status/1571433997460459521)
+
+- [[Sep 16, 2022] BlockSec Academy | About 61.8% (67.1K / 108.5K) of the #NFT projects are suffering from the holder pooling risk](https://twitter.com/BlockSecTeam/status/1570609612768026624)
+
+- [[Sep 14, 2022] BlockSec Academy | NFT Assets Off-Chain Risk](https://twitter.com/BlockSecTeam/status/1569946202573254656)
+
+- [[Sep 9, 2022] DeFi Alert](https://twitter.com/BlockSecTeam/status/1567928377432051713)
+[0xEd850799CF22b66cb4911539425f8A41423D0933 | *BSC*]
+
+- [[Sep 9, 2022] NFT Security Report 2022 ](https://twitter.com/BlockSecTeam/status/1567918184619032576)
+
+- [[Sep 8, 2022] A new memory overwrite vulnerability discovered in Wyvern Protocol](https://twitter.com/BlockSecTeam/status/1567843681008492544)
+
+- [[Sep 8, 2022] $ROI(Ragnarok Online Invasion) Attack Analysis](https://twitter.com/BlockSecTeam/status/1567746825616236544)
+[Ragnarok Online Invasion | *BSC* | Access Control Vulnerability]
+
+- [[Sep 8, 2022] No-Open Source Contract Attack](https://twitter.com/BlockSecTeam/status/1567706201277988866)
+[0x8b068e22e9a4a9bca3c321e0ec428abf32691d1e | *BSC*]
+
+- [[Sep 6, 2022] DeFi Alert](https://twitter.com/BlockSecTeam/status/1567027459207606273)
+
+- [[Sep 5, 2022] DeFi Alert](https://twitter.com/BlockSecTeam/status/1566606770650300416)
+[0xea41bbd80ac69807289d0c4f6582ab73e96834d0 | *BSC* | Price Manipulation]
+
 - [[Aug 31, 2022] No-Open Source Contract Attack](https://twitter.com/BlockSecTeam/status/1564890919023034369)  
-[0x40c994299fb4449ddf471d0634738ea79c734919 | BSC | Logic Vulnerability]
+[0x40c994299fb4449ddf471d0634738ea79c734919 | *BSC* | Logic Vulnerability]
 
 - [[Aug 24, 2022] KaoyaSwap Attack Analysis](https://twitter.com/BlockSecTeam/status/1562286943957708800)   
 [KaoyaSwap | *BSC* | Logic Vulnerability]
@@ -333,16 +363,18 @@ Reward Distribution Vulnerability]
 
 
 # Media Coverage
-- [[JULY 10, 2022]Hacker drains $1.4 million worth of ETH from NFT lender Omni](https://www.theblock.co/post/156800/hacker-drains-1-4-million-worth-of-eth-from-nft-lender-omni)
+-[[Sep 19, 2022] BlockSec detects replay exploit with ETHPoW tokens](https://www.theblock.co/post/170953/blocksec-detects-replay-exploit-with-ethpow-tokens)
 
-- [[JUN 17, 2022]Inverse Finance exploited again for $1.2M in flash loan oracle attack](https://cointelegraph.com/news/inverse-finance-exploited-again-for-1-2m-in-flashloan-oracle-attack)
+- [[JULY 10, 2022] Hacker drains $1.4 million worth of ETH from NFT lender Omni](https://www.theblock.co/post/156800/hacker-drains-1-4-million-worth-of-eth-from-nft-lender-omni)
 
-- [[MAY 13, 2022]How to protect yourself from the recent spate of ‘crypto muggings’](https://cointelegraph.com/news/how-to-protect-yourself-from-the-recent-spate-of-crypto-muggings)
+- [[JUN 17, 2022] Inverse Finance exploited again for $1.2M in flash loan oracle attack](https://cointelegraph.com/news/inverse-finance-exploited-again-for-1-2m-in-flashloan-oracle-attack)
+
+- [[MAY 13, 2022] How to protect yourself from the recent spate of ‘crypto muggings’](https://cointelegraph.com/news/how-to-protect-yourself-from-the-recent-spate-of-crypto-muggings)
 
 - [[May 3, 2022]Spate of Exploits Snares Rari Capital and Saddle Finance for $90M Escalation of Malicious Attacks Shows No Sign of Abating](https://finance.yahoo.com/news/spate-exploits-snares-rari-capital-091600216.html)
 
-- [[May 1, 2022]Fei Protocol Offers $10M Bounty After $80M Rari Capital Exploit](https://decrypt.co/99103/fei-protocol-offers-10m-bounty-after-80m-rari-capital-exploit)
+- [[May 1, 2022] Fei Protocol Offers $10M Bounty After $80M Rari Capital Exploit](https://decrypt.co/99103/fei-protocol-offers-10m-bounty-after-80m-rari-capital-exploit)
 
-- [[APR 22, 2022]Hacker bungles DeFi exploit: Leaves stolen $1M in contract set to self destruct](https://cointelegraph.com/news/hacker-bungles-defi-exploit-leaves-stolen-1m-in-contract-set-to-self-destruct)
+- [[APR 22, 2022] Hacker bungles DeFi exploit: Leaves stolen $1M in contract set to self destruct](https://cointelegraph.com/news/hacker-bungles-defi-exploit-leaves-stolen-1m-in-contract-set-to-self-destruct)
 
-- [[APR 22, 2022]Finance Redefined: Hacker bungles DeFi exploit, dYdx's decentralization goals, and more](https://cointelegraph.com/news/finance-redefined-hacker-bungles-defi-exploit-dydx-s-decentralization-goals-and-more)
+- [[APR 22, 2022] Finance Redefined: Hacker bungles DeFi exploit, dYdx's decentralization goals, and more](https://cointelegraph.com/news/finance-redefined-hacker-bungles-defi-exploit-dydx-s-decentralization-goals-and-more)
