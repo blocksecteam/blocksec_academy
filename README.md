@@ -363,7 +363,7 @@ Reward Distribution Vulnerability]
 
 
 # Media Coverage
--[[Sep 19, 2022] BlockSec detects replay exploit with ETHPoW tokens](https://www.theblock.co/post/170953/blocksec-detects-replay-exploit-with-ethpow-tokens)
+- [[Sep 19, 2022] BlockSec detects replay exploit with ETHPoW tokens](https://www.theblock.co/post/170953/blocksec-detects-replay-exploit-with-ethpow-tokens)
 
 - [[JULY 10, 2022] Hacker drains $1.4 million worth of ETH from NFT lender Omni](https://www.theblock.co/post/156800/hacker-drains-1-4-million-worth-of-eth-from-nft-lender-omni)
 
