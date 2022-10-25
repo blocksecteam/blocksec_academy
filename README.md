@@ -113,82 +113,84 @@ Price Manipulation]
 [[Sanshuinu](https://sanshuinu.finance/) | *Ethereum* | 
 Deflation Token]
 
-- [[Jul 19, 2021]The Analysis of the Array Finance Security Incident](https://medium.com/@blocksecteam/the-analysis-of-the-array-finance-security-incident-bcab555326c1)
+- [[Jul 19, 2021] The Analysis of the Array Finance Security Incident](https://medium.com/@blocksecteam/the-analysis-of-the-array-finance-security-incident-bcab555326c1)
 [Array Finance | *Ethereum* | Price Manipulation]
 
-- [[May 9, 2021]Price manipulation attack in reality (again): RariCapital incident](https://medium.com/@blocksecteam/price-manipulation-attack-in-reality-again-raricapital-incident-8f2047bc3575)
+- [[May 9, 2021] Price manipulation attack in reality (again): RariCapital incident](https://medium.com/@blocksecteam/price-manipulation-attack-in-reality-again-raricapital-incident-8f2047bc3575)
 [[RariCapital](https://app.rari.capital/) | *Ethereum* | 
 Price Manipulation]
 
-- [[Jan 3, 2021]Security incident on Seal Finance](https://medium.com/@blocksecteam/security-incident-on-seal-finance-fa79c27a1c3b)    
+- [[Jan 3, 2021] Security incident on Seal Finance](https://medium.com/@blocksecteam/security-incident-on-seal-finance-fa79c27a1c3b)    
 [[Seal Finance](http://seal.finance/) | *Ethereum* | 
 Reentrancy]
 
-- [[Jan 3, 2021]Deposit Less, Get More: yCREDIT Attack Details](https://medium.com/@blocksecteam/deposit-less-get-more-ycredit-attack-details-f589f71674c3)
+- [[Jan 3, 2021] Deposit Less, Get More: yCREDIT Attack Details](https://medium.com/@blocksecteam/deposit-less-get-more-ycredit-attack-details-f589f71674c3)
 [[YCredit](https://ycredit.tools/) | *Ethereum*]
 
-- [[Dec 18, 2020]Flash Loan Attack on Plouto Vault](https://medium.com/@blocksecteam/flash-loan-attack-on-plouto-vault-197da1531758)  
+- [[Dec 18, 2020] Flash Loan Attack on Plouto Vault](https://medium.com/@blocksecteam/flash-loan-attack-on-plouto-vault-197da1531758)  
 [Plouto| *Ethereum*]
 
-- [[Dec 3, 2020]Loopring(LRC) Protocol Incident](https://medium.com/@blocksecteam/loopring-lrc-protocol-incident-66e9470bd51f)    
+- [[Dec 3, 2020] Loopring(LRC) Protocol Incident](https://medium.com/@blocksecteam/loopring-lrc-protocol-incident-66e9470bd51f)    
 [LRC Protocol| *Ethereum* | Price Manipulation]
 
 
 ## Secure Contract Development
 ### Secure the Solana Ecosystem
-- [[Mar 9, 2022]Secure the Solana Ecosystem (1) — Hello Solana](https://blocksecteam.medium.com/secure-the-solana-ecosystem-1-hello-solana-bb7ecc1e6b21)
+- [[Mar 9, 2022] Secure the Solana Ecosystem (1) — Hello Solana](https://blocksecteam.medium.com/secure-the-solana-ecosystem-1-hello-solana-bb7ecc1e6b21)
 
-- [[Mar 18, 2022]Secure the Solana Ecosystem (2) — Calling Between Programs](https://blocksecteam.medium.com/secure-the-solana-ecosystem-2-calling-between-programs-5fa3d947c4ed)
+- [[Mar 18, 2022] Secure the Solana Ecosystem (2) — Calling Between Programs](https://blocksecteam.medium.com/secure-the-solana-ecosystem-2-calling-between-programs-5fa3d947c4ed)
 
-- [[Mar 27, 2022]Secure the Solana Ecosystem (3) — Program Upgrade](https://blocksecteam.medium.com/secure-the-solana-ecosystem-3-program-upgrade-5590c746016)
+- [[Mar 27, 2022] Secure the Solana Ecosystem (3) — Program Upgrade](https://blocksecteam.medium.com/secure-the-solana-ecosystem-3-program-upgrade-5590c746016)
 
-- [[Apr 6, 2022]Secure the Solana Ecosystem (4) — Account Validation](https://blocksecteam.medium.com/secure-the-solana-ecosystem-4-account-validation-2e28b062de0b)
+- [[Apr 6, 2022] Secure the Solana Ecosystem (4) — Account Validation](https://blocksecteam.medium.com/secure-the-solana-ecosystem-4-account-validation-2e28b062de0b)
 
-- [[Apr 10, 2022]Secure the Solana Ecosystem (5) — Multi-Sig](https://blocksecteam.medium.com/secure-the-solana-ecosystem-5-multi-sig-99b74bbb3bfe)
+- [[Apr 10, 2022] Secure the Solana Ecosystem (5) — Multi-Sig](https://blocksecteam.medium.com/secure-the-solana-ecosystem-5-multi-sig-99b74bbb3bfe)
 
-- [[Apr 24, 2022]Secure the Solana Ecosystem (6) — Multi-Sig2](https://blocksecteam.medium.com/secure-the-solana-ecosystem-6-multi-sig2-ef3e8d6cfe6f)
+- [[Apr 24, 2022] Secure the Solana Ecosystem (6) — Multi-Sig2](https://blocksecteam.medium.com/secure-the-solana-ecosystem-6-multi-sig2-ef3e8d6cfe6f)
 
-- [[Apr 29, 2022]Secure the Solana Ecosystem (7) — Type Confusion](https://medium.com/@blocksecteam/secure-the-solana-ecosystem-7-type-confusion-90dbc19cd0cb)
+- [[Apr 29, 2022] Secure the Solana Ecosystem (7) — Type Confusion](https://medium.com/@blocksecteam/secure-the-solana-ecosystem-7-type-confusion-90dbc19cd0cb)
 
 ### Rust
-- [[Oct 12, 2021]Rust智能合约养成日记（1）合约状态数据定义与方法实现](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484442&idx=1&sn=45940463885e133e05a74228a45c4be3&scene=21#wechat_redirect)
+- [[Oct 12, 2021] Rust智能合约养成日记（1）合约状态数据定义与方法实现](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484442&idx=1&sn=45940463885e133e05a74228a45c4be3&scene=21#wechat_redirect)
 
-- [[Oct 17, 2021]Rust智能合约养成日记（2）编写Rust智能合约单元测试](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484468&idx=1&sn=fcbe194fb8824fd35243dc90002b227a&scene=21#wechat_redirect)
+- [[Oct 17, 2021] Rust智能合约养成日记（2）编写Rust智能合约单元测试](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484468&idx=1&sn=fcbe194fb8824fd35243dc90002b227a&scene=21#wechat_redirect)
 
-- [[Oct 24, 2021]Rust智能合约养成日记 （3）Rust智能合约部署，函数调用及Explorer的使用](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484488&idx=1&sn=bad2ebad4f412166e1ccadd9d3adcb68&scene=21#wechat_redirect)
+- [[Oct 24, 2021] Rust智能合约养成日记 （3）Rust智能合约部署，函数调用及Explorer的使用](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484488&idx=1&sn=bad2ebad4f412166e1ccadd9d3adcb68&scene=21#wechat_redirect)
 
-- [[Oct 31, 2021]Rust智能合约养成日记（4）Rust 智能合约整数溢出](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484508&idx=1&sn=07c79e70e726e7f64e45cf9751f84575&chksm=c0a850f5f7dfd9e3934eec7692e2e44dfbd319435aee6e405eeda82a3b80361248279095c706&scene=21#wechat_redirect)
+- [[Oct 31, 2021] Rust智能合约养成日记（4）Rust 智能合约整数溢出](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484508&idx=1&sn=07c79e70e726e7f64e45cf9751f84575&chksm=c0a850f5f7dfd9e3934eec7692e2e44dfbd319435aee6e405eeda82a3b80361248279095c706&scene=21#wechat_redirect)
 
-- [[Nov 12, 2021]Rust 智能合约养成日记（5）合约安全之重入攻击](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484515&idx=1&sn=f726c77d6ac4441ff5a82aaa8f639da7&chksm=c0a850caf7dfd9dc6b7de5f5f9b509b78918ed1546800c65ea15b347f18f3c5556f6ec831f4e&scene=21#wechat_redirect)
+- [[Nov 12, 2021] Rust 智能合约养成日记（5）合约安全之重入攻击](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484515&idx=1&sn=f726c77d6ac4441ff5a82aaa8f639da7&chksm=c0a850caf7dfd9dc6b7de5f5f9b509b78918ed1546800c65ea15b347f18f3c5556f6ec831f4e&scene=21#wechat_redirect)
 
-- [[Nov 23, 2021]Rust 智能合约养成日记（6）拒绝服务攻击](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484541&idx=1&sn=47fef1a045b741490ce41a339aef994e&chksm=c0a850d4f7dfd9c2a830fa467e4b5ce5b4e9c20d906de49b0f35cdc9e57594df4cd5a3885dee&scene=21#wechat_redirect)
+- [[Nov 23, 2021] Rust 智能合约养成日记（6）拒绝服务攻击](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484541&idx=1&sn=47fef1a045b741490ce41a339aef994e&chksm=c0a850d4f7dfd9c2a830fa467e4b5ce5b4e9c20d906de49b0f35cdc9e57594df4cd5a3885dee&scene=21#wechat_redirect)
 
-- [[Dec 9, 2021]Rust 智能合约养成日记（7）合约安全之计算精度](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484549&idx=1&sn=2d93b38d50a40e636d05c237ade28476&chksm=c0a8502cf7dfd93a02a4b8365c27c7e855286a14314690247fcd8b5ea286aa72454c17489f2d&scene=21#wechat_redirect)
+- [[Dec 9, 2021] Rust 智能合约养成日记（7）合约安全之计算精度](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484549&idx=1&sn=2d93b38d50a40e636d05c237ade28476&chksm=c0a8502cf7dfd93a02a4b8365c27c7e855286a14314690247fcd8b5ea286aa72454c17489f2d&scene=21#wechat_redirect)
 
-- [[Jan 13, 2022]Rust 智能合约养成日记（8）合约安全之权限控制](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484607&idx=1&sn=1313f2b8e36f2e0c4b6c2672ce3cd00a&chksm=c0a85016f7dfd900761d09fb67be2b058319444be29c9fd8b465daa6b7910c908a953c65f578&scene=21#wechat_redirect)
+- [[Jan 13, 2022] Rust 智能合约养成日记（8）合约安全之权限控制](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484607&idx=1&sn=1313f2b8e36f2e0c4b6c2672ce3cd00a&chksm=c0a85016f7dfd900761d09fb67be2b058319444be29c9fd8b465daa6b7910c908a953c65f578&scene=21#wechat_redirect)
 
-- [[Feb 25, 2022]Rust 智能合约养成日记（9）合约升级](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484676&idx=1&sn=8e5048dcbfd29e53c6622c4bbfaf5a70&chksm=c0a851adf7dfd8bba97f0b4fac8b066ed27daa8388e7865f7e728ec607cf718d63d5ee2ba07a&scene=21#wechat_redirect)
+- [[Feb 25, 2022] Rust 智能合约养成日记（9）合约升级](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484676&idx=1&sn=8e5048dcbfd29e53c6622c4bbfaf5a70&chksm=c0a851adf7dfd8bba97f0b4fac8b066ed27daa8388e7865f7e728ec607cf718d63d5ee2ba07a&scene=21#wechat_redirect)
 
-- [[Mar 25, 2022]Rust 智能合约养成日记（10-1）Spuntnik DAO](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484722&idx=1&sn=fa26ec7d847a6b2a07d4de0f514772be&scene=21#wechat_redirect)
+- [[Mar 25, 2022] Rust 智能合约养成日记（10-1）Spuntnik DAO](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484722&idx=1&sn=fa26ec7d847a6b2a07d4de0f514772be&scene=21#wechat_redirect)
 
-- [[Apr 1, 2022]Rust 智能合约养成日记（10-2）Sputnik DAO::Factory合约解读](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484763&idx=1&sn=a94b36f736ce77852968fcd0c9704165&scene=21#wechat_redirect)
+- [[Apr 1, 2022] Rust 智能合约养成日记（10-2）Sputnik DAO::Factory合约解读](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484763&idx=1&sn=a94b36f736ce77852968fcd0c9704165&scene=21#wechat_redirect)
 
-- [[Apr 24, 2022]Rust 智能合约养成日记（10-3）Sputnik DAO::提案介绍](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484836&idx=1&sn=fa60fd3617336f187f344ffe8e10e670&chksm=c0a8510df7dfd81b67914044dbdf9dd6fb6a9f1d07cdc5f0d64c76cfa2de2c997fab87038ea9&token=1019309428&lang=zh_CN#rd)
+- [[Apr 24, 2022] Rust 智能合约养成日记（10-3）Sputnik DAO::提案介绍](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484836&idx=1&sn=fa60fd3617336f187f344ffe8e10e670&chksm=c0a8510df7dfd81b67914044dbdf9dd6fb6a9f1d07cdc5f0d64c76cfa2de2c997fab87038ea9&token=1019309428&lang=zh_CN#rd)
 
 ### NFT
-- [[Aug 5, 2022]Secure Smart Contract Development — Code Reentrancy in NFT Contracts](https://medium.com/@blocksecteam/secure-smart-contract-development-code-reentrancy-in-nft-contracts-fa6799a3966c)
+- [[Aug 5, 2022] Secure Smart Contract Development — Code Reentrancy in NFT Contracts](https://medium.com/@blocksecteam/secure-smart-contract-development-code-reentrancy-in-nft-contracts-fa6799a3966c)
 
-- [[Aug 12, 2022]Secure Smart Contract Development (2) — How to Use Digital Signature and Use It Right in NFT (Markets)](https://medium.com/@blocksecteam/secure-smart-contract-development-2-how-to-use-digital-signature-and-use-it-right-in-nft-cc7ed246c009)
+- [[Aug 12, 2022] Secure Smart Contract Development (2) — How to Use Digital Signature and Use It Right in NFT (Markets)](https://medium.com/@blocksecteam/secure-smart-contract-development-2-how-to-use-digital-signature-and-use-it-right-in-nft-cc7ed246c009)
 
 
 ## Misc
 ### AML
-- [[Sept 13, 2021]暴露出来的只是冰山一角：深度挖掘Colonial Pipeline事件背后隐藏的故事](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484265&idx=1&sn=03c4f5f3e25678abf2fe64d2575733fb&chksm=c0a857c0f7dfded6460dd0d8fd6e242ffe5a3b414ade80db04f8958d1a658ee9a401deb5be54&token=1019309428&lang=zh_CN#rd)
+- [[Sept 13, 2021] 暴露出来的只是冰山一角：深度挖掘Colonial Pipeline事件背后隐藏的故事](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484265&idx=1&sn=03c4f5f3e25678abf2fe64d2575733fb&chksm=c0a857c0f7dfded6460dd0d8fd6e242ffe5a3b414ade80db04f8958d1a658ee9a401deb5be54&token=1019309428&lang=zh_CN#rd)
 
 - [[Oct 02, 2021][BlockSec AML研究分析之二] Colonial Pipeline事件分析展示界面](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484406&idx=1&sn=3b2e9bf6985b9fb5032d529904bb0335&chksm=c0a8575ff7dfde492c39ba9575a686fa615f0e1b6ba5006d0d94082dbc12712646402305565d&token=1019309428&lang=zh_CN#rd)
 
 ### Others
-- [[Sep 27, 2022]Our short analysis of the Accusation of the Wintermute Project](https://medium.com/@blocksecteam/our-short-analysis-of-the-accusation-of-the-wintermute-project-dbde1ed11ef8)
+- [[Oct 10, 2022] How we recover the stolen funds for TransitSwap (and BabySwap)](https://medium.com/@blocksecteam/how-we-recover-the-stolen-funds-for-transitswap-and-babyswap-2a68c9f4d66f)
+
+- [[Sep 27, 2022] Our short analysis of the Accusation of the Wintermute Project](https://medium.com/@blocksecteam/our-short-analysis-of-the-accusation-of-the-wintermute-project-dbde1ed11ef8)
 
 - [[Sep 21, 2022] Our short analysis of the Profanity tool vulnerability](https://medium.com/@blocksecteam/our-short-analysis-of-the-profanity-tool-vulnerability-9f0477f0c3c0)
 [[Profanity tool](https://github.com/johguse/profanity)]
@@ -201,12 +203,47 @@ Reentrancy]
 
 - [[Aug 24, 2022] BlockSec and GoPlus Reached Strategy Partnership to Explore the Field of “Web 3.0 Security”](https://medium.com/@blocksecteam/blocksec-and-goplus-reached-strategy-partnership-to-explore-the-field-of-web-3-0-security-ffa63fb9590)
 
-- [[Mar 7, 2022]How to Make the BlockChain Attack “Blockable”](https://medium.com/@blocksecteam/how-to-make-the-blockchain-attack-blockable-1c741aea64c3)
+- [[Mar 7, 2022] How to Make the BlockChain Attack “Blockable”](https://medium.com/@blocksecteam/how-to-make-the-blockchain-attack-blockable-1c741aea64c3)
 
-- [[Aug 17, 2021]Tradeoff Between Convenience and Security: Unlimited Approval in ERC20](https://medium.com/@blocksecteam/unlimited-approval-in-erc20-convenience-or-security-1c8dce421ed7)
+- [[Aug 17, 2021] Tradeoff Between Convenience and Security: Unlimited Approval in ERC20](https://medium.com/@blocksecteam/unlimited-approval-in-erc20-convenience-or-security-1c8dce421ed7)
 
 
 # Twitter
+- [[Oct 20, 2022] Health attack](https://twitter.com/BlockSecTeam/status/1583073442433495040)
+[Health | *BSC* | Price Manipulation]
+
+- [[Oct 19, 2022] MEV bot was attacked](https://twitter.com/BlockSecTeam/status/1582715252428660736)
+
+- [[Oct 18, 2022] BitKeepOS contract was hacked](https://twitter.com/BlockSecTeam/status/1582261040334901249)
+[[Bitkeep](https://t.co/RoXJg4fuDf) | *BSC* | Looks like its function allows the attacker to execute an arbitrary call]
+
+- [[Oct 17, 2022] Phalcon Update: Transaction Simulation supports BSC](https://twitter.com/BlockSecTeam/status/1581964129056628740)
+
+- [[Oct 14, 2022] Phalcon Update: Simulate a transaction](https://twitter.com/BlockSecTeam/status/1580937962652475396)
+
+- [[Oct 14, 2022] MEV bot was exploited](https://twitter.com/BlockSecTeam/status/1580779311862190080)
+
+- [[Oct 13, 2022] Profanity Rescue](https://twitter.com/BlockSecTeam/status/1580558111844155392)
+
+- [[Oct 12, 2022] ATK attacfk](https://twitter.com/BlockSecTeam/status/1580095325200474112)
+[ATK | *BSC* ]
+
+- [[Oct 12, 2022] Carrot attack](https://twitter.com/BlockSecTeam/status/1579908411235237888)
+[Carrot | *BSC* | Public FunctionCall]
+
+- [[Oct 11, 2022] TempleDao attack](https://twitter.com/BlockSecTeam/status/1579843881893769222)
+[[TempleDao](https://templedao.link/) | *Ethereum* | Insufficient Access Control]
+
+- [[Oct 11, 2022] QANplatform deployer address is vulnerable](https://twitter.com/BlockSecTeam/status/1579781207503802369)
+
+- [[Oct 11, 2022] Indexed Finance Exploiter's address is vulnerable](https://twitter.com/BlockSecTeam/status/1579776638380048385)
+
+- [[Oct 11, 2022] Profanity vulnerability](https://twitter.com/BlockSecTeam/status/1579769525247279104)
+
+- [[Oct 10, 2022] Phalcon supports Avalanche C-Chain](https://twitter.com/BlockSecTeam/status/1579448545706651648)
+
+- [[Oct 9, 2022] Phalcon Dark Mode Launched](https://twitter.com/BlockSecTeam/status/1579088375969378307)
+
 - [[Oct 7, 2022] Binance Cross-chain Bridge Attack](https://twitter.com/BlockSecTeam/status/1578290988959035395)
 
 - [[Oct 6, 2022] RES Attack Analysis](https://twitter.com/BlockSecTeam/status/1578041521273962496)
@@ -397,6 +434,8 @@ Reward Distribution Vulnerability]
 
 
 # Media Coverage
+- [[Oct 13, 2022] Someone abused FTX’s withdrawal fee subsidy to mint $70,000 of XEN](https://www.theblock.co/post/176923/someone-abused-ftxs-withdrawal-fee-subsidy-to-mint-70000-of-xen)
+
 - [[OCt 7, 2022] A $568 Million Hack of Binance Coin Roils Crypto Sector Anew](https://www.bloomberg.com/news/articles/2022-10-06/bnb-chain-says-bsc-temporarily-paused-on-irregular-activity)
 
 - [[Sep 19, 2022] BlockSec detects replay exploit with ETHPoW tokens](https://www.theblock.co/post/170953/blocksec-detects-replay-exploit-with-ethpow-tokens)
@@ -407,7 +446,7 @@ Reward Distribution Vulnerability]
 
 - [[MAY 13, 2022] How to protect yourself from the recent spate of ‘crypto muggings’](https://cointelegraph.com/news/how-to-protect-yourself-from-the-recent-spate-of-crypto-muggings)
 
-- [[May 3, 2022]Spate of Exploits Snares Rari Capital and Saddle Finance for $90M Escalation of Malicious Attacks Shows No Sign of Abating](https://finance.yahoo.com/news/spate-exploits-snares-rari-capital-091600216.html)
+- [[May 3, 2022] Spate of Exploits Snares Rari Capital and Saddle Finance for $90M Escalation of Malicious Attacks Shows No Sign of Abating](https://finance.yahoo.com/news/spate-exploits-snares-rari-capital-091600216.html)
 
 - [[May 1, 2022] Fei Protocol Offers $10M Bounty After $80M Rari Capital Exploit](https://decrypt.co/99103/fei-protocol-offers-10m-bounty-after-80m-rari-capital-exploit)
 
