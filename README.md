@@ -175,6 +175,13 @@ Reentrancy]
 
 - [[Apr 24, 2022] Rust 智能合约养成日记（10-3）Sputnik DAO::提案介绍](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484836&idx=1&sn=fa60fd3617336f187f344ffe8e10e670&chksm=c0a8510df7dfd81b67914044dbdf9dd6fb6a9f1d07cdc5f0d64c76cfa2de2c997fab87038ea9&token=1019309428&lang=zh_CN#rd)
 
+### Move
+- [[Nov 7, 2022] Security Practices in Move Development (1): Hello World](https://blocksecteam.medium.com/security-practices-in-move-development-1-hello-world-42d0e44f3725)
+
+- [[Nov 21, 2022] Security Practices in Move Development (2): Aptos Coin](https://blocksecteam.medium.com/security-practices-in-move-development-2-aptos-coin-abe7ab7509fb)
+
+
+
 ### NFT
 - [[Aug 5, 2022] Secure Smart Contract Development — Code Reentrancy in NFT Contracts](https://medium.com/@blocksecteam/secure-smart-contract-development-code-reentrancy-in-nft-contracts-fa6799a3966c)
 
@@ -188,6 +195,17 @@ Reentrancy]
 - [[Oct 02, 2021][BlockSec AML研究分析之二] Colonial Pipeline事件分析展示界面](https://mp.weixin.qq.com/s?__biz=MzkwMjIwMjgyMg==&mid=2247484406&idx=1&sn=3b2e9bf6985b9fb5032d529904bb0335&chksm=c0a8575ff7dfde492c39ba9575a686fa615f0e1b6ba5006d0d94082dbc12712646402305565d&token=1019309428&lang=zh_CN#rd)
 
 ### Others
+
+- [[Dec 15, 2022] Getting Started with Phalcon 2.0](https://blocksecteam.medium.com/getting-started-with-phalcon-2-0-253da584ca91)
+
+- [[Dec 15, 2022] Beyond the market risk: a logic bug identified in SushiSwap’s KashiPairMediumRiskV1 contract](https://blocksecteam.medium.com/beyond-the-market-risk-a-logic-bug-identified-in-sushiswaps-kashipairmediumriskv1-contract-80ead49d8d6d)
+
+- [[Dec 1, 2022] BlockSec and Tokenlon Reached Strategy Partnership](https://blocksecteam.medium.com/blocksec-and-tokenlon-reached-strategy-partnership-2d488b6a12e3)
+
+- [[Nov 18, 2022] Getting Started With MetaDock](https://blocksecteam.medium.com/getting-started-with-metadock-5e3b3aeb64d4)
+
+- [[Nov 1, 2022] Rustle: the First Automatic Auditor for NEAR Community](https://blocksecteam.medium.com/rustle-the-first-automatic-auditor-for-near-community-9256bdeb7e1c)
+
 - [[Oct 10, 2022] How we recover the stolen funds for TransitSwap (and BabySwap)](https://medium.com/@blocksecteam/how-we-recover-the-stolen-funds-for-transitswap-and-babyswap-2a68c9f4d66f)
 
 - [[Sep 27, 2022] Our short analysis of the Accusation of the Wintermute Project](https://medium.com/@blocksecteam/our-short-analysis-of-the-accusation-of-the-wintermute-project-dbde1ed11ef8)
@@ -209,6 +227,252 @@ Reentrancy]
 
 
 # Twitter
+
+- [[Jan 18, 2023] UpSwing Finance attack](https://twitter.com/BlockSecTeam/status/1615521051487932418)
+[[UpSwing Finance](https://twitter.com/UpswingFinance) | *Ethereum* | Design flaw of the $UPStkn token ]
+
+- [[Jan 17, 2023] Reply to Forta](https://twitter.com/BlockSecTeam/status/1615373777533308929)
+
+- [[Jan 17, 2023] Omniestategroup attack](https://twitter.com/BlockSecTeam/status/1615232012834705408)
+[[Omniestategroup](https://www.omni-psi.com/intro-page) | *BSC* | Insufficient check of the arguments ]
+
+- [[Jan 17, 2023] Voltage Finance Exploiter activity](https://twitter.com/BlockSecTeam/status/1615203339930832897)
+
+- [[Jan 17, 2023] Phalcon Update: Simulator on mobile](https://twitter.com/BlockSecTeam/status/1615021788655943680)
+
+- [[Jan 16, 2023] MidasCapitalXYZ attack](https://twitter.com/BlockSecTeam/status/1614864084956254209)
+[[MidasCapital](https://midascapital.xyz/) | *BSC* | Unexcepted external call ]
+
+- [[Jan 12, 2023] Maybe a Rugpull of 2M BUSD on Avalanche](https://twitter.com/BlockSecTeam/status/1613518029840683013)
+
+- [[Jan 12, 2023] UF Dao of XDAO attack](https://twitter.com/BlockSecTeam/status/1613507804412940289)
+[[XDAO](https://www.xdao.app/) | *BSC* | Incorrect parameter setting ]
+
+- [[Jan 12, 2023] Maybe a Rugpull of 2M BUSD related to a SwapHelper contract](https://twitter.com/BlockSecTeam/status/1613492776712249344)
+
+- [[Jan 12, 2023] ThreeBodyOF attack](https://twitter.com/BlockSecTeam/status/1613430775789289478)
+[[ThreeBody](https://twitter.com/ThreeBodyOF) | *BSC* | Use of the rebasing token ]
+
+- [[Jan 12, 2023] RoeFinance attack](https://twitter.com/BlockSecTeam/status/1613267000913960976)
+[[Roe Finance](https://www.roe.finance/) | *Ethereum* | Limited liquidity of the pool ]
+
+- [[Jan 11, 2023] Suspicious activities duting BRA attack](https://twitter.com/BlockSecTeam/status/1613139824227291138)
+
+- [[Jan 10, 2023] Phalcon supports Arbitrum](https://twitter.com/BlockSecTeam/status/1612821280268451841)
+
+- [[Jan 10, 2023] $BRA attack](https://twitter.com/BlockSecTeam/status/1612701106982862849)
+[[$BRA](https://bscscan.com/address/0x449fea37d339a11efe1b181e5d5462464bba3752) | *BSC* | Logic Flaw ]
+
+- [[Jan 10, 2023] MetaDock recommendation on CryptoSlate](https://twitter.com/BlockSecTeam/status/1612606245218979840)
+
+- [[Jan 9, 2023] Reply to KeyStone](https://twitter.com/BlockSecTeam/status/1612388204648493057)
+
+- [[Jan 7, 2023] Reply to Lossless](https://twitter.com/BlockSecTeam/status/1611416763669020673)
+
+- [[Jan 7, 2023] Agree with @pcaversaccio about zero allowance](https://twitter.com/BlockSecTeam/status/1611405528969936896)
+
+- [[Jan 5, 2023] Phalcon biggest update yet: Source code view and fund flow chart](https://twitter.com/BlockSecTeam/status/1611016320874852354)
+
+- [[Jan 4, 2023] Getting started with Phalcon 2.0](https://twitter.com/BlockSecTeam/status/1611360090258538497)
+
+- [[Jan 4, 2023] Rustle got Honorable Mentions in the NEAR Hackathon](https://twitter.com/BlockSecTeam/status/1610633786194288644)
+
+- [[Jan 4, 2023] $FUT rugged 2M+](https://twitter.com/BlockSecTeam/status/1610605662500974595)
+
+- [[Jan 4, 2023] 0 value transfer phishing moves to Polygon](https://twitter.com/BlockSecTeam/status/1610589402798891008)
+
+- [[Jan 4, 2023] Recommend MetaDock](https://twitter.com/BlockSecTeam/status/1610571036570914817)
+
+- [[Jan 4, 2023] Phishing campaign towards TrustPad](https://twitter.com/BlockSecTeam/status/1610309720278958080)
+
+- [[Jan 3, 2023] Thanks Adrian Hetman](https://twitter.com/BlockSecTeam/status/1610267076534599681)
+
+- [[Jan 3, 2023] Phalcon update notice](https://twitter.com/BlockSecTeam/status/1610235548983263233)
+
+- [[Jan 3, 2023] Gas-token scam alert](https://twitter.com/BlockSecTeam/status/1610232910539378690)
+
+- [[Jan 3, 2023] $GDS attack](https://twitter.com/BlockSecTeam/status/1610167174978760704)
+[[$GDS](https://twitter.com/GDS_chain) | *BSC* | LP Mining mechanism vulnerability ]
+
+- [[Dec 29, 2022] MetaDock's privacy policy](https://twitter.com/BlockSecTeam/status/1608443114884333574)
+
+- [[Dec 29, 2022] Jay attack](https://twitter.com/BlockSecTeam/status/1608372475225866240)
+[[JAY](https://app.jaypeggers.com/sellNFTs) | *Ethereum* | Contract-level reentrancy ]
+
+- [[Dec 28, 2022] MetaDock daily efficiency tip](https://twitter.com/BlockSecTeam/status/1608128497851207680)
+
+- [[Dec 27, 2022] MetaDock daily efficiency tip](https://twitter.com/BlockSecTeam/status/1607758288850161670)
+
+- [[Dec 25, 2022] CryptoRubic attack](https://twitter.com/BlockSecTeam/status/1606993118901198849)
+[[Rubic exchange](https://rubic.exchange/) | *Ethereum* | Arbitrary function call ]
+
+- [[Dec 25, 2022] New Phishing scam using a fake MetaMask](https://twitter.com/BlockSecTeam/status/1606969617947451393)
+
+- [[Dec 24, 2022] Recommend MetaDock to users](https://twitter.com/BlockSecTeam/status/1606629267676495874)
+
+- [[Dec 19, 2022] Open source phishing urls](https://twitter.com/BlockSecTeam/status/1605883653208391680)
+
+- [[Dec 19, 2022] MetaDock update: integrates Deth.net](https://twitter.com/BlockSecTeam/status/1604718627172732929)
+
+- [[Dec 18, 2022] Recommend MetaDock to users](https://twitter.com/BlockSecTeam/status/1604481080966275077)
+
+- [[Dec 16, 2022] Recommend MetaDock to users](https://twitter.com/BlockSecTeam/status/1603729596381216768)
+
+- [[Dec 16, 2022] Beyond the market risk: a logic bug identified in SushiSwap’s KashiPairMediumRiskV1 contract](https://twitter.com/BlockSecTeam/status/1603633067876155393)
+
+- [[Dec 16, 2022] Reply to MetaDock about CashioApp Exploiter](https://twitter.com/BlockSecTeam/status/1603590101425983489)
+
+- [[Dec 15, 2022] 0 value phishing](https://twitter.com/BlockSecTeam/status/1603414327972667392)
+
+- [[Dec 14, 2022] NimbusPlatform attack](https://twitter.com/BlockSecTeam/status/1602877048124735489)
+[[NimbusPlatform](https://nimbusplatform.io/) | *BSC* | Price Manipulation]
+
+- [[Dec 13, 2022] ElasticSwap attack](https://twitter.com/BlockSecTeam/status/1602517243598114816)
+[[ElasticSwap](https://twitter.com/ElasticSwap) | *Ethereum* | Mix/misuse of two accounting systems]
+
+- [[Dec 12, 2022] Talk about MEV bot](https://twitter.com/BlockSecTeam/status/1602666756253925378)
+
+- [[Dec 13, 2022] $BGLD attack](https://twitter.com/BlockSecTeam/status/1602335214356660225)
+[[$BGLD](https://bscscan.com/address/0xc2319e87280c64e2557a51cb324713dd8d1410a3) | *BSC* | Charge an extra fee on transferring]
+
+- [[Dec 12, 2022] Open source MetaDock](https://twitter.com/BlockSecTeam/status/1602296025661640705)
+
+- [[Dec 12, 2022] Phishing website alert](https://twitter.com/BlockSecTeam/status/1602203688012943360)
+
+- [[Dec 10, 2022] Phishing scam website alert](https://twitter.com/BlockSecTeam/status/1601594772380037120)
+
+- [[Dec 10, 2022] Recommend Mopsus based on Pocket Universe's thread](https://twitter.com/BlockSecTeam/status/1601279629373112321)
+
+- [[Dec 7, 2022] MetaDock update: shortcuts, productive widgets, Open-source notice](https://twitter.com/BlockSecTeam/status/1600482845470097409)
+
+- [[Dec 7, 2022] BNB-AES pool attack](https://twitter.com/BlockSecTeam/status/1600442137811689473)
+[[BNB-AES pool](https://bscscan.com/tx/0xca4d0d24aa448329b7d4eb81be653224a59e7b081fc7a1c9aad59c5a38d0ae19) | *BSC* | Deflation token]
+
+- [[Dec 7, 2022] BNB-AES pool attack](https://twitter.com/BlockSecTeam/status/1600432715399983107)
+
+- [[Dec 6, 2022] Phalcon update: horizontal scroll bar, bug fixed](https://twitter.com/BlockSecTeam/status/1600060225943269377)
+
+- [[Dec 6, 2022] Let ChatGPT expain pseudorandom number generation vulnerability](https://twitter.com/BlockSecTeam/status/1600029061920657409)
+
+- [[Dec 6, 2022] RoastFootball attack](https://twitter.com/BlockSecTeam/status/1599991294947778560)
+[[Roast Football](https://twitter.com/RoastFootball) | *BSC* | Weak pseudorandom number generation vulnerability]
+
+- [[Dec 5, 2022] FTX whitehat/heist activity](https://twitter.com/BlockSecTeam/status/1599604070398193664)
+
+- [[Dec 2, 2022] Attacker's activity during Ankr exploit](https://twitter.com/BlockSecTeam/status/1598681204882300929)
+
+- [[Dec 2, 2022] Phalcon update: addresses highlighting, custom ABI parsing, custom label](https://twitter.com/BlockSecTeam/status/1598667524258004992)
+
+- [[Dec 2, 2022] Ankr exploite incident](https://twitter.com/BlockSecTeam/status/1598514978428157954)
+
+- [[Dec 2, 2022] Profit calculation of an Attacker related to Ankr exploit](https://twitter.com/BlockSecTeam/status/1598625878455373824)
+
+- [[Dec 2, 2022] Ariva Coin rugpull or private key compromised](https://twitter.com/BlockSecTeam/status/1598621473115377666)
+[[Ariva Digital](https://ariva.digital/) | *BSC* | Rug pull or Private Key Compromised]
+
+- [[Dec 2, 2022] Ankr private key compromised](https://twitter.com/BlockSecTeam/status/1598504838949900289)
+[[Ankr](https://www.ankr.com/) | *BSC* | Private Key Compromised]
+
+- [[Dec 1, 2022] Contract hacked by price manipulation](https://twitter.com/BlockSecTeam/status/1598262002010378241)
+[[Contract](https://bscscan.com/address/0x0fd03ca89545c2ca342c8b9785c2383b8b8eabc5) | *BSC* | Price Manipulation]
+
+- [[Dec 1, 2022] Reach a strategic partnership with TokenLon](https://twitter.com/BlockSecTeam/status/1598157438166786048)
+
+- [[Nov 30, 2022] $OCASH scam](https://twitter.com/BlockSecTeam/status/1597943125099438080)
+
+- [[Nov 30, 2022] Fake phishing on rarible](https://twitter.com/BlockSecTeam/status/1597867409095806976)
+[[Rarible](https://rarible.com/) | *Ethereum* | exploiting the unlimited approval issue]
+
+- [[Nov 27, 2022] Reply to @ballsyalchemist](https://twitter.com/BlockSecTeam/status/1596713324204675072)
+
+- [[Nov 26, 2022] Boshen's Wallet investigation, abuse MEV](https://twitter.com/BlockSecTeam/status/1596513467141591042)
+
+- [[Nov 26, 2022] Reply to bertcmiller about MEV](https://twitter.com/BlockSecTeam/status/1595712830338048001)
+
+- [[Nov 24, 2022] MetaDock updated: integrates Tenderly, Transaction Viewer, DeBank, Dedaub](https://twitter.com/BlockSecTeam/status/1595704166860861441)
+
+- [[Nov 23, 2022] NUM attack](https://twitter.com/BlockSecTeam/status/1595346020237352960)
+[[Numbers Protocol](https://www.numbersprotocol.io/) | *Ethereum* | incompatible with the Multichain Router]
+
+- [[Nov 23, 2022] NUM attack](https://twitter.com/BlockSecTeam/status/1595308075690340352)
+[[Numbers Protocol](https://www.numbersprotocol.io/) | *Ethereum* | fake Multichain transfer]
+
+- [[Nov 23, 2022] Boshen asset tracking](https://twitter.com/BlockSecTeam/status/1595262314600886274)
+[[Boshen](https://twitter.com/boshen1011/status/1595239850596306944) | *Ethereum*]
+
+- [[Nov 22, 2022] MetaDock updated: smoother on BTC.com](https://twitter.com/BlockSecTeam/status/1595019201588367361)
+
+- [[Nov 22, 2022] Profanity vulnerability](https://twitter.com/BlockSecTeam/status/1594969078367936512)
+
+- [[Nov 22, 2022] AAVE is fine](https://twitter.com/BlockSecTeam/status/1594931190997610496)
+
+- [[Nov 21, 2022] FTX accounts drainer activity](https://twitter.com/BlockSecTeam/status/1594627046935871493)
+
+- [[Nov 21, 2022] Security Practices in Move Development (2): Aptos Coin](https://twitter.com/BlockSecTeam/status/1594584270362021888)
+
+- [[Nov 21, 2022] FTX whitehat created a multisig wallet](https://twitter.com/BlockSecTeam/status/1594528398348816384)
+
+- [[Nov 19, 2022] Glad to help manifoldfinance](https://twitter.com/BlockSecTeam/status/1593636758167560192)
+
+- [[Nov 18, 2022] Reply to amber's Security Researcher](https://twitter.com/BlockSecTeam/status/1593477080582262785)
+
+- [[Nov 18, 2022] MetaDock: a chrome extension aims to imporove the usability of blockchain explorers](https://twitter.com/BlockSecTeam/status/1593473535833350146)
+
+- [[Nov 17, 2022] ConvexFinance was not hacked](https://twitter.com/BlockSecTeam/status/1593093458994286592)
+
+- [[Nov 16, 2022] DFX Finance vulnerability](https://twitter.com/BlockSecTeam/status/1592734292727455744)
+[Sheep_Farm22 | *BSC* | incorrect implementation of register function]
+
+- [[Nov 14, 2022] Phalcon updates, faster and API](https://twitter.com/BlockSecTeam/status/1592177763536211970)
+
+- [[Nov 12, 2022] FTX heist](https://twitter.com/BlockSecTeam/status/1591455813897707520)
+
+- [[Nov 11, 2022] DFX Finance vulnerability](https://twitter.com/BlockSecTeam/status/1590962548593283072)
+[[DFX Finance](https://dfx.finance/) | *Ethereum* | deposits vulnerability]
+
+- [[Nov 11, 2022] DFX Finance attacker on the move](https://twitter.com/BlockSecTeam/status/1590960299246780417)
+
+- [[Nov 7, 2022] Security Practices in Move Development (1): Hello World](https://twitter.com/BlockSecTeam/status/1589567009347760128)
+
+- [[Nov 3, 2022] FMoney Finance Rescue](https://twitter.com/BlockSecTeam/status/1587998109648683010)
+[[FMoney Finance](https://fmoney.finance/) | *Ethereum*]
+
+- [[Nov 3, 2022] Skyward Finance Attack](https://twitter.com/BlockSecTeam/status/1587998109648683010)
+[[Skyward Finance](https://app.skyward.finance/) | *NEAR* | 'redeem_skyward' vulnerability]
+
+- [[Nov 1, 2022] Rustle: the first automatic auditor for NEAR community](https://twitter.com/BlockSecTeam/status/1587439644081545216)
+
+- [[Oct 30, 2022] Phalcon's simulation on Ethdev contract](https://twitter.com/BlockSecTeam/status/1587120755015581701)[[ETHDev contract](0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae) | *Ethereum*]
+
+- [[Oct 30, 2022] DAppNode profanity rescue](https://twitter.com/BlockSecTeam/status/1586671125735825408)
+[[DAppNode](https://dappnode.com/) | *Ethereum* | the profanity vulnerability]
+
+- [[Oct 28, 2022] Mopsus: industry-leading transaction pre-execution service](https://twitter.com/BlockSecTeam/status/1586024551036596226)
+
+- [[Oct 28, 2022] friesDAO profanity rescue](https://twitter.com/BlockSecTeam/status/1585863541571014657)
+[[friesDAO](https://fries.fund/) | *Ethereum* | the profanity vulnerability]
+
+- [[Oct 28, 2022] V8Token attack](https://twitter.com/BlockSecTeam/status/1585824018925355008)
+[V8Token | *BSC* | 'updateUserBalance' logic vulnerability]
+
+- [[Oct 27, 2022] Collaborate with losslessdefi](https://twitter.com/BlockSecTeam/status/1585642914864300033)
+[[Losslessdefi](https://twitter.com/losslessdefi)]
+
+- [[Oct 27, 2022] Team Finance](https://twitter.com/BlockSecTeam/status/1585587617063895041)
+[[Team Finance](https://www.team.finance/) | *Ethereum* | Fake token]
+
+- [[Oct 27, 2022] UVT attack](https://twitter.com/BlockSecTeam/status/1585580096026734592)
+[[UVToken](https://www.uvtoken.com/) | *BSC* | Lack of sanity check]
+
+- [[Oct 27, 2022] VTF attack](https://twitter.com/BlockSecTeam/status/1585575129936977920)
+[VTF token | *BSC* | 'updateUserBalance' logic vulnerability]
+
+- [[Oct 26, 2022] n00dleSwap attack](https://twitter.com/BlockSecTeam/status/1584959295829180416)
+[n00dleSwap | *Ethereum* | ERC777-based reentrncy]
+
+- [[Oct 25, 2022] ULME attack](https://twitter.com/BlockSecTeam/status/1584839309781135361)
+[ULME | *BSC* | Indirect price manipulation attack caused by unrestricted access control]
+
 - [[Oct 20, 2022] Health attack](https://twitter.com/BlockSecTeam/status/1583073442433495040)
 [Health | *BSC* | Price Manipulation]
 
@@ -434,6 +698,57 @@ Reward Distribution Vulnerability]
 
 
 # Media Coverage
+
+- [[Jan 14, 2023] 디파이, NFT 온체인 리스크 쉽게 확인하기 ](https://contents.premium.naver.com/professorjo/research/contents/230114125451591td)
+
+- [[Jan 12, 2023] First Mover Asia: The Next Avraham Eisenberg Isn’t Going to Be a ChatGPT-Powered ‘Script Kiddie’](https://www.coindesk.com/markets/2023/01/12/first-mover-asia-the-next-avraham-eisenberg-isnt-going-to-be-a-chatgpt-powered-script-kiddie/)
+
+- [[Jan 9, 2023] Introducing MetaDock: A secure and efficient trove of Web3 tools and resources](https://cryptoslate.com/press-releases/introducing-metadock-a-secure-and-efficient-trove-of-web3-tools-and-resources/)
+
+- [[Dec 6, 2022] Minted: How the DeFi Wallet NFT Marketplace Works in Detail](https://crypto.com/university/minted-defi-wallet-nft-marketplace)
+
+- [[Dec 5, 2022] Attackers Net $20M through Ankr and Helio exploits](https://www.moneycontrol.com/news/business/cryptocurrency/top-cryptocurrency-news-on-december-5-front-running-scams-to-increase-by-500-defi-protocols-suffer-a-20-million-hack-coinbase-apple-at-loggerheads-and-more-9649111.html)
+
+- [[Dec 3, 2022] Hack Saldırısı Bu Altcoin’i Yerle Bir Etti: Fiyat Sıfıra Gidiyor!](https://tr.tradingview.com/news/cointurk:e965d877b:0/)
+
+- [[Dec 2, 2022] Attackers pocket $20 million in exploits on Ankr and Helio](https://coinmarketcap.com/headlines/news/attacker-pockets-20-million-in-exploits-on-ankr-and-helio/)
+
+- [[Dec 2, 2022] Hackers get away with $20 million in twin attacks on Ankr and Helio](https://invezz.com/news/2022/12/02/hackers-get-away-with-20-million-in-twin-attacks-on-ankr-and-helio/)
+
+- [[Dec 2, 2022] Binance pausa saques em meio a hack ao protocolo Ankr](https://www.criptofacil.com/binance-pausa-saques-em-meio-a-hack-ao-protocolo-ankr/)
+
+- [[Nov 11, 2022] DeFi Platform DFX Finance Says it Has Been Hacked for $7.5M](https://blockchain.news/news/defi-platform-dfx-finance-says-it-has-been-hacked-for-$7.5m)
+
+- [[Nov 11, 2022] Polychain-backed DFX Finance hacked for $7.5 million](https://www.theblock.co/post/185796/polychain-dfx-finance-hacked)
+
+- [[Nov 9, 2022] Desenvolvimento Seguro de Contratos Inteligentes (1) - Reentrância de Código em Contratos NFT](https://www.web3dev.com.br/panegali/desenvolvimento-seguro-de-contratos-inteligentes-1-reentrancia-de-codigo-em-contratos-nft-5a59)
+
+- [[Nov 7, 2022] Skyward Finance Reportedly Suffers $3M Exploit on Near Protocol](https://coinculture.com/au/business/skyward-finance-reportedly-suffers-3m-exploit-on-near-protocol/)
+
+- [[Nov 4, 2022] Crypto : Les escrocs du Merge d'Ethereum (ETH)](https://www.cointribune.com/crypto-les-escrocs-du-merge-dethereum-eth/)
+
+- [[Nov 4, 2022] Skyward Finance Suffers $3M Lost From Finance Attack](https://blog.mexc.com/skyward-finance-suffers-3m-lost-from-financial-attack/)
+
+- [[Nov 4, 2022] Developers of pNetwork bridge drain $4.3 million from PancakeSwap in ‘white hat’ attack](https://coinmarketcal.com/en/news/developers-of-pnetwork-bridge-drain-4-3-million-from-pancakeswap-in-white-hat-attack)
+
+- [[Nov 4, 2022] Developers of pNetwork bridge drain $4.3 million from PancakeSwap in 'white hat' attack](https://www.theblock.co/post/182969/developers-of-pnetwork-bridge-drain-4-3-million-from-pancakeswap-in-white-hat-attack)
+
+- [[Nov 3, 2022] Hacker Steals $3 Million Worth of Tokens From Skyward Finance](https://vpnoverview.com/news/hacker-steals-3-million-worth-of-tokens-from-skyward-finance/)
+
+- [[Nov 3, 2022] Skyward Finance Allegedly Suffers $3M Loss in Exploit](https://www.coinspeaker.com/skyward-finance-3m-loss-exploit/)
+
+- [[Oct 31, 2022] BlockSec Debunks Rumours of $532M Smart Contract Hack](https://crypto.news/blocksec-debunks-rumours-of-532m-smart-contract-hack/)
+
+- [[Oct 30, 2022] Hackers nab $14.5M from DeFi platform Team Finance](https://www.scmagazine.com/brief/breach/hackers-nab-14-5m-from-defi-platform-team-finance)
+
+- [[Oct 27, 2022] DeFi platform robbed of nearly $15 million in hack](https://therecord.media/defi-platform-robbed-of-nearly-15-million-in-hack/)
+
+- [[Oct 18, 2022] New Community-Based Security Mechanism Launched By BNB Chain To Protect Users](https://www.blockchain-council.org/news/new-community-based-security-mechanism-launched-by-bnb-chain-to-protect-users/)
+
+- [[Oct 17, 2022] TempleDAO Hacked Funds Deposited to Tornado Cash](https://blockworks.co/news/templedao-hacked-funds-deposited-to-tornado-cash)
+
+- [[Oct 16, 2022] Wintermute repays $92M TrueFi loan on time despite suffering $160M hack](https://cointelegraph.com/news/wintermute-repays-92m-truefi-loan-on-time-despite-suffering-160m-hack)
+
 - [[Oct 13, 2022] Someone abused FTX’s withdrawal fee subsidy to mint $70,000 of XEN](https://www.theblock.co/post/176923/someone-abused-ftxs-withdrawal-fee-subsidy-to-mint-70000-of-xen)
 
 - [[OCt 7, 2022] A $568 Million Hack of Binance Coin Roils Crypto Sector Anew](https://www.bloomberg.com/news/articles/2022-10-06/bnb-chain-says-bsc-temporarily-paused-on-irregular-activity)
