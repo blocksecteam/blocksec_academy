@@ -2,7 +2,28 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/BlockSecTeam.svg?style=social&label=Follow%20%40BlockSecTeam)](https://twitter.com/BlockSecTeam)
 
-## Attack Analysis
+## Attack/Vulnerability Analysis on Medium
+
+- [[Dec 15, 2022] Beyond the market risk: a logic bug identified in SushiSwap’s KashiPairMediumRiskV1 contract](https://blocksecteam.medium.com/beyond-the-market-risk-a-logic-bug-identified-in-sushiswaps-kashipairmediumriskv1-contract-80ead49d8d6d)
+[[Sushi Swap](https://www.sushi.com/) | *BSC*]
+
+- [[Oct 10, 2022] How we recover the stolen funds for TransitSwap (and BabySwap)](https://blocksecteam.medium.com/how-we-recover-the-stolen-funds-for-transitswap-and-babyswap-2a68c9f4d66f)   
+[[Transit Swap](https://swap.transit.finance/) | *BSC*]
+
+- [[Sep 27, 2022] Our short analysis of the Accusation of the Wintermute Project](
+https://blocksecteam.medium.com/our-short-analysis-of-the-accusation-of-the-wintermute-project-dbde1ed11ef8)   
+[[wintermute](https://www.wintermute.com/) | *Ethereum*]
+
+- [[Sep 21, 2022] Our short analysis of the Profanity tool vulnerability](https://blocksecteam.medium.com/our-short-analysis-of-the-profanity-tool-vulnerability-9f0477f0c3c0)   
+[*Ethereum*]
+
+- [[Sep 19, 2022] Reveal the “Message’’ Replay Attacks on EthereumPoW](https://blocksecteam.medium.com/reveal-the-message-replay-attacks-on-ethereumpow-64e4feee991c)   
+[[EthereumPoW](https://ethereumpow.org/) | *EthereumPoW*]
+
+
+- [[Sep 19, 2022] A new memory overwrite vulnerability discovered in Wyvern Protocol](https://blocksecteam.medium.com/a-new-memory-overwrite-vulnerability-discovered-in-wyvern-protocol-5285996c297d)   
+[[OpenSea](https://opensea.io) | *Ethereum*]
+
 
 - [[Aug 5, 2022] How Unchecked Mapping Makes $200M Losses of Nomad Bridge](https://blocksecteam.medium.com/attack-analysis-how-unchecked-mapping-makes-200m-losses-of-nomad-bridge-441336e28924)   
 [[Nomad Bridge](https://app.nomad.xyz//) | *Ethereum*]
